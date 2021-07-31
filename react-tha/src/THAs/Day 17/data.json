@@ -1,0 +1,34 @@
+[
+  {
+    "food": "Pizza",
+    "calorie": 56
+  },
+  {
+    "food": "Burger",
+    "calorie": 69
+  },
+  {
+    "food": "Coca Cola Tu",
+    "calorie": 500
+  },
+  {
+    "food": "Brownie",
+    "calorie": 1080
+  },
+  {
+    "food": "Fried Rice",
+    "calorie": 900
+  },
+  {
+    "food": "Pretzel",
+    "calorie": 1500
+  },
+  {
+    "food": "Butter Scotch Mousse",
+    "calorie": 200
+  },
+  {
+    "food": "Tiramisu",
+    "calorie": 10
+  }
+]
