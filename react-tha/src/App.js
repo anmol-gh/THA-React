@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Day16 from "./THAs/Day 16/chessboard";
 import Day17 from "./THAs/Day 17/day17";
-import Day18 from './THAs/Day 18/day18'
+import Day18 from "./THAs/Day 18/day18";
 import Home from "./THAs/Home/home";
 import "./App.css";
 function App() {
@@ -20,6 +20,9 @@ function App() {
           <Day17 />
         </Route>
         <Route exact path="/day18">
+          <Day18 />
+        </Route>
+        <Route exact path="/day19">
           <Day18 />
         </Route>
       </Switch>

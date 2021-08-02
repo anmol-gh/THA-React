@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 * {
   padding: 0px;
   margin: 0px;
@@ -9,6 +11,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(43, 43, 43);
 }
 .day16 {
   display: grid;
@@ -17,7 +20,7 @@
   width: auto;
   height: auto;
   overflow: hidden;
-  border: 3px solid black;
+  border: 3px solid antiquewhite;
   padding: 10px;
 }
 
@@ -44,6 +47,8 @@
   margin: 0px 20px;
   font-size: 1.2rem;
   text-decoration: none;
+  color: aliceblue;
+  font-family: 'Pacifico', cursive;
 }
 
 .homepage .homeanchor:hover {
