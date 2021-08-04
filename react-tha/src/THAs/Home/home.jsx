@@ -16,6 +16,9 @@ function Home() {
       <a href="/day22" className="homeanchor" target="_blank">
         Day 22
       </a>
+      <a href="/day23" className="homeanchor" target="_blank">
+        Day 23
+      </a>
     </div>
   );
 }
